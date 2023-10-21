@@ -3,7 +3,7 @@
 # ><(((º>
 
 
-## A bruteforce of directories with a low level of requests and that passes the endpoints in a list of URLs, one endpoint for all URLs and then passes the second endpoint and so on until the list of ednpoints runs out
+## A bruteforce of directories with a low level of requests and that passes the endpoints in a list of URLs, one endpoint for all URLs and then passes the second endpoint and so on until the list of endpoints runs out
 
 ### Install:
 ```bash
