@@ -14,9 +14,12 @@ go install  -v github.com/eikehacker1/acari@latest
 sudo cp ~/go/bin/acari /usr/bin
 ```
 acari -h
+
 -s string
+
      URL list file
    -w string
+   
      Endpoint list file
 
 ##### acari -s listurls.txt -w youorwordlist
