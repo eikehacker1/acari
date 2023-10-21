@@ -22,4 +22,4 @@ acari -h
    
      Endpoint list file
 
-##### acari -s listurls.txt -w youorwordlist
+##### acari -s listurls.txt -w your-wordlist
