@@ -23,3 +23,9 @@ acari -h
      Endpoint list file
 
 ##### acari -s listurls.txt -w your-wordlist
+
+# Yes it only takes 200 but use httpx to make sure
+```bash
+cari -s listurls.txt -w your-wordlist | httpx -status-code -mc 20
+```
+
